@@ -29,7 +29,7 @@ const siteProps = {
   email: "Uroosham.Memon@studentambassadors.com",
   gitHub: "UrooshamMemon",
   instagram: "Design_With_Uroosham",
-  linkedIn: "Uroosham Memon",
+  linkedIn: "urooshamMemon",
   medium: "",
   twitter: "",
   youTube: "",
